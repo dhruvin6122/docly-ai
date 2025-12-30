@@ -1,1 +1,0 @@
-# docly-ai
